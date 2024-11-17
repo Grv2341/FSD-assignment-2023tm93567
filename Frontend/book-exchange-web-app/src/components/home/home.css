@@ -1,0 +1,13 @@
+  .container {
+    display: flex;
+    justify-content: center;  /* Center horizontally */
+    align-items: center;      /* Center vertically */
+    height: 100vh;            /* Full viewport height */
+  }
+  
+  .main-container {
+    width: 80%;
+    margin:10%;          /* Set width as needed */
+    height: 100px;             /* Expand to the full height of the page */
+    margin:auto;
+  }
