@@ -18,7 +18,7 @@ The backend is developed using Python and Flask. It is divided into two main API
 ## Steps to Run the Backend
 ### Clone the repository:
 
-git clone https://github.com/yourusername/book-exchange-portal.git
+git clone [https://github.com/yourusername/book-exchange-portal.git](https://github.com/Grv2341/FSD-assignment-2023tm93567.git)
 
 cd FSD-assignment-2023tm93567
 
